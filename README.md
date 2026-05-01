@@ -93,7 +93,7 @@ terraform apply
 
 ## 📸 Screenshots
 
-![Dashboard](Screenshot 2026-05-01 192943.png)
+![Dashboard](dashboard.png)
 
 ---
 
